@@ -1,4 +1,4 @@
-# Project-Deliverable-1-Data-Collection-Cleaning-and-Exploration
+# Project Deliverable 1
 
 ## Project Overview
 This project is part of Advanced Data Mining for Data-Driven Insights and Predictive Modeling.  
